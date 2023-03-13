@@ -1,4 +1,3 @@
-file_storage.py
 #!/usr/bin/python3
 """Module for FileStorage class."""
 import datetime
