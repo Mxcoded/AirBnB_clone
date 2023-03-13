@@ -1,4 +1,3 @@
-review.py
 #!/usr/bin/python3
 """This module creates a Review class"""
 
