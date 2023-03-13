@@ -1,4 +1,3 @@
-city.py
 #!/usr/bin/python3
 """This module creates a User class"""
 
