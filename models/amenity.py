@@ -1,4 +1,3 @@
-amenity.py
 #!/usr/bin/python3
 """This module creates a Amenity class"""
 
