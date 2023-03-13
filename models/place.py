@@ -1,4 +1,3 @@
-place.py
 #!/usr/bin/python3
 """This module creates a Place class"""
 
